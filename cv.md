@@ -12,7 +12,7 @@ Novosibirsk State University
   * Economics and law, bachelor
 
 The Rolling Scopes School
-  * JavaScript/Front-end (in progress)
+  * JavaScript/Front-end 2023Q4(in progress)
 ## Languages
 English - upper-intermediate
 
